@@ -4,7 +4,7 @@ import org.python.core.PyObject;
 import org.python.util.PythonInterpreter;
 import org.python.core.PySystemState;
 import org.python.core.PyString;
-import org.jython.example.interfaces.ExampleType;
+import org.jython.etl.interfaces.ExampleType;
 
 /**
  * Created by luv on 12/1/17.
